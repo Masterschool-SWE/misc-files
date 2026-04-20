@@ -1,0 +1,13 @@
+Job Title,Job ID,Location,Required Skills (CSV),Min Experience
+Backend Engineer (Python/FastAPI),JOB-53AVQ8,Berlin,"Python, FastAPI, Postgres, Docker, JWT",2
+Frontend Engineer (React/TypeScript),JOB-JLKP2H,Munich,"React, TypeScript, Vite, CSS, Tailwind",2
+Full-Stack Developer (React+Node),JOB-4UQJWB,Remote (DE),"React, Node.js, Express, Postgres, Docker",3
+Data Engineer,JOB-P9SQMN,Hamburg,"Python, Pandas, SQL, Airflow, dbt",3
+DevOps Engineer (AWS/Terraform),JOB-4ZQZDY,Frankfurt,"Docker, Kubernetes, AWS, Terraform, CI/CD",3
+QA Automation Engineer (Python/Selenium),JOB-U67AFV,Cologne,"Selenium, PyTest, Playwright, API Testing, Postman",1
+Mobile Engineer (React Native),JOB-4CQ7BK,Remote (EU),"React Native, Expo, TypeScript, Android, iOS",2
+Security Analyst (GRC/AppSec),JOB-QQKC6Z,Berlin,"ISO 27001, OWASP, Burp Suite, Python, SIEM",2
+Platform Engineer,JOB-V8R3XK,Stuttgart,"Kubernetes, AWS, CI/CD, Terraform, Docker",4
+ML Engineer,JOB-6RB7Y7,Remote (DE),"Python, Pandas, SQL, Airflow, Snowflake",3
+SDET,JOB-JZYFRW,Munich,"Selenium, PyTest, API Testing, Jira, Playwright",2
+Site Reliability Engineer,JOB-U3XJNJ,Frankfurt,"Kubernetes, CI/CD, AWS, Terraform, Docker",4
